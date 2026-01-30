@@ -1,0 +1,71 @@
+topic,term,score,rank
+box office & industry,million,0.8750847870505517,1
+box office & industry,weekend,0.17250053532981488,2
+box office & industry,worldwide,0.1319121740757408,3
+box office & industry,debut,0.1250121124357931,4
+box office & industry,total,0.1250121124357931,5
+box office & industry,earned,0.12355249227112396,6
+box office & industry,drop,0.09961902709727262,7
+box office & industry,domestic,0.08008588452917996,8
+box office & industry,office,0.055084204559100555,9
+box office & industry,audience,0.055084204559100555,10
+cast & crew,actor,0.1882422036903044,1
+cast & crew,ask,0.16471192822901634,2
+cast & crew,star,0.16261273957066716,3
+cast & crew,sarah,0.1585351799065246,4
+cast & crew,youtube,0.1411816527677283,5
+cast & crew,questions,0.13551061630888928,6
+cast & crew,announcement,0.13551061630888928,7
+cast & crew,ariana,0.12367117986055369,8
+cast & crew,directed,0.12367117986055369,9
+cast & crew,year,0.12367117986055369,10
+comparison,say,0.1686302434970305,1
+comparison,want,0.1405252029141921,2
+comparison,better,0.13115685605324598,3
+comparison,love,0.13115685605324598,4
+comparison,feel,0.11242016233135367,5
+comparison,act,0.11086425269185607,6
+comparison,great,0.10305181547040754,7
+comparison,second,0.0936834686094614,8
+comparison,cinematic,0.08646744058114977,9
+comparison,felt,0.08622775209366583,10
+plot discussion,stack,0.29978876945332317,1
+plot discussion,remmick,0.26034287873578066,2
+plot discussion,smoke,0.18493504709377048,3
+plot discussion,sammie,0.18145109730069559,4
+plot discussion,irish,0.1780856009051123,5
+plot discussion,music,0.11999846650560755,6
+plot discussion,question,0.10959113901853065,7
+plot discussion,juke,0.10274169282987249,8
+plot discussion,want,0.0839989265539253,9
+plot discussion,kkk,0.07889178143508505,10
+production,music,0.2983481810621874,1
+production,soundtrack,0.1702954938656655,2
+production,score,0.1702954938656655,3
+production,old,0.1491740905310937,4
+production,image,0.12772162039924911,5
+production,use,0.12772162039924911,6
+production,test,0.11473655207173623,7
+production,screenings,0.11473655207173623,8
+production,masterful,0.11473655207173623,9
+production,pale,0.11473655207173623,10
+release & distribution,official,0.43463110453140263,1
+release & distribution,poster,0.41048493205743586,2
+release & distribution,rating,0.23060285446138634,3
+release & distribution,pg,0.14487703484380088,4
+release & distribution,price,0.12073086236983406,5
+release & distribution,70mm,0.11299536232610842,6
+release & distribution,teaser,0.11299536232610842,7
+release & distribution,experience,0.10481947930063015,8
+release & distribution,twist,0.09658468989586726,9
+release & distribution,featuring,0.08474652174458132,10
+reviews,review,0.21502147697180501,1
+reviews,music,0.1723454586415231,2
+reviews,comments,0.17169507961702765,3
+reviews,great,0.16577991735994127,4
+reviews,felt,0.15970860900392392,5
+reviews,feel,0.1493660641559867,6
+reviews,character,0.13131082563163665,7
+reviews,reddit,0.12179617773940299,8
+reviews,old,0.1017658898645184,9
+reviews,love,0.0902761926217502,10
